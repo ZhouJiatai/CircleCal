@@ -5,7 +5,7 @@
 
 ### 最新版本：**V2.5.1**  
 [下载**圆计算 V2.5.1 PC版**程序](https://github.com/ZhouJiatai/CircleCal/releases/tag/V2.5.1)  
-[*查看源代码*](https://github.com/Heymmy-Zhou/CircleCal/tree/V2.5.1)  
+[*查看源代码*](https://github.com/ZhouJiatai/CircleCal/tree/V2.5.1)  
 
 ---
 
